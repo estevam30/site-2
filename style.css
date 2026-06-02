@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    backgroud-color: violet;
+    height: 100%
+}
+
+.capa {
+    width: 100%
+    object-fit: cover;
+    height: 200px%;
+
+}
+
+.infoHeader{
+    padding-top: 15px;
+    backgroud-color: purple;
+}
